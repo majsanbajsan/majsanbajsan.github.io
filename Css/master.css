@@ -14,31 +14,31 @@ margin-left: auto;
 header {
   height:150px;
   width: 100%;
-  background-color:#CEC4FF;
+  background-color:#B7B5BA;
   }
 
 nav {
   height: 50px;
   width: 100% ;
-  background-color:#A9C6DB;
+  background-color:#F5F2FA;
 }
 
 main {
   height: 450px;
   width: 60%;
-   background-color:#C6F2E3;
+   background-color:#DCDAE0;
 }
 
 aside {
   height: 450px;
   width:40%;
-  background-color:#B1DBA9;
+  background-color:#78777A;
 }
 
 footer {
     height: 100px;
   width: 100%;
-  background-color:#FCFBCF;
+  background-color:#3A393B;
 }
 
 #container {
